@@ -184,7 +184,7 @@ export default class App extends React.Component {
       <Container>
         <Header>
           <Body>
-            <Title>20M_Workout</Title>
+            <Title>20M_Workout </Title>
           </Body>
         </Header>
         <Content>
